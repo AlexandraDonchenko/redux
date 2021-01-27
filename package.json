@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/AlexandraDonchenko/redux/issues"
   },
-  "homepage": "https://github.com/AlexandraDonchenko/redux#readme"
+  "homepage": "https://github.com/AlexandraDonchenko/redux#readme",
+  "dependencies": {}
 }
