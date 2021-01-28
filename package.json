@@ -16,5 +16,7 @@
     "url": "https://github.com/AlexandraDonchenko/redux/issues"
   },
   "homepage": "https://github.com/AlexandraDonchenko/redux#readme",
-  "dependencies": {}
+  "dependencies": {
+    "react-redux": "^7.2.2"
+  }
 }
